@@ -1,0 +1,2 @@
+# Dispositivo-de-Bioimpedancia-para-la-Detecci-n-de-Glaucoma
+El glaucoma es una causa principal de ceguera mundial y su incidencia crece cada año. Un dispositivo capaz de medir la bioimpedancia ocular permite detectar rápidamente el estado del ojo y asociarlo con posible glaucoma. El proyecto usa metodología en cascada, un generador de señal, un controlador de corriente y una interfaz de visualización.
